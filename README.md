@@ -3,7 +3,7 @@ DSP-and-DC-Lab
 
 A python based alternative for MATLAB, SciPy is used here. Entire code sets are reimplemented using python. A good start for python beginners. Please contribute if you know python. Also check for errors.
 ## Why is such an initiative important
-I think that Open Source is one of the most valued knowledge in the field of Computer Science and as we all know we have to know how it ticks and works. The entire idea of this repository is to make the interested ones familiar with how it works and also give a brief knowledge about MATLAB and its alternatives. I think this would greatly improve your skills in this domain. Best of Luck.
+I think that Open Source is one of the most valued knowledge in the field of Computer Science and as we all know we have to know how it ticks and works. The entire idea of this repository is to make the interested ones familiar with how GITHUB works and also give a brief knowledge about MATLAB alternatives. I think this would greatly improve your skills in this domain. Best of Luck.
 ## Things to note while contributing
 * Note that this is an initiative to learn DCVS SCM and a good start for python newbies.
 * We value the correctness of the code.
