@@ -12,6 +12,7 @@ I think that Open Source is one of the most valued knowledge in the field of Com
 * Please try to improve your code on a regular basis. Open a pull request only
 when you are sure it is optimised.
 * Every effort is appreciable. If you have a correct MATLAB code please put it in, so that we can port it to Python.
+
 ##A guide to install and use Scipy
 * The link for installing SciPy Stack is given [here](http://www.scipy.org/install.html).
 * Please note that if you
@@ -20,5 +21,6 @@ are using any other distribution that uses package managers other than apt the d
 through the documentation.
 * Please try to upload only codes. The images that are generated should not be kept with the library. Please remove then during 'commit'.
 * Please be responsible for your work. 
+
 ## A piece of advice
 This is just an effort and any suggestions for improvement is welcome. Later I will improve the scenario with 'branch' and 'blame'. Please note that whatever your knowledge base is you can join and contribute a little. Guidelines will be updated in accordance to the users. 
