@@ -10,7 +10,9 @@ A repository for a collection of  Digital Signal Processing experiments written 
 All these are open source and have great libraries in par with MATLAB. This repository is an effort to eliminate costly proprietary software and contribute to the development of open source computing in the engineering and scientific research. 
 
 ## Why contribute?
-Open Source development is one of the most arms of the Computer Science. The motivation behind setting up this repository is to make interested people familiar with how GITHUB works and also give a brief knowledge about the opensource alternatives to MATLAB. These tools are invaluable for any professional and academic reasearch and we believe that the right time to learn them is while in college. You can contribute to this repo with whatever you could and hence be part of a fraternity trying to replace the costly propritary softwares with something we could get for free.
+Open Source development is one of the most intersting areas of the Computer Science. You get to learn a lot of good and stuff and find super awesome people. Probably the best way to learn any stuff.
+
+The motivation behind setting up this repository is to make interested people familiar with how GITHUB works and also give a brief knowledge about the opensource alternatives to MATLAB. These tools are invaluable for any professional and academic reasearch and we believe that the right time to learn them is while in college. You can contribute to this repo with whatever you could and hence be part of a fraternity trying to replace the costly propritary softwares with something we could get for free.
 
 #### If you cannot contribute in python, you could upload your working MATLAB code to the stock folder so that some one could work on it. 
 
