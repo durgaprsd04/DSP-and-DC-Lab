@@ -12,11 +12,11 @@ All these are open source and have great libraries in par with MATLAB. This repo
 ## Why contribute?
 Open Source development is one of the most intersting areas of the Computer Science. You get to learn a lot of good and stuff and find super awesome people. Probably the best way to learn anything!
 
-The motivation behind setting up this repository is to make interested people familiar with how GITHUB works and also give a brief introduction to other opensource alternatives to MATLAB. These tools are invaluable for any professional and academic reasearch and we believe that the right time to learn them is while still in college. You can contribute to this repo with whatever you could and hence be part of a fraternity trying to replace the costly propritary softwares with something we could get for free.
+The motivation behind setting up this repository is to make interested people familiar with how GITHUB works and also give a brief introduction to other opensource alternatives to MATLAB. These tools are invaluable for any professional and academic reasearch and we believe that the right time to learn them is while still in college. You can contribute to this repo with whatever you could and hence be part of a fraternity trying to replace the costly propritary software with something we could get for free.
 
 #### If you cannot contribute in python, you could upload your working MATLAB code to the stock folder so that some one could work on it. 
 
-Also, you can access a great article [here](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1), on how to get started with git. The community is awesome and you wouldn't be feeling deserted when you run into any trouble.
+
 ## Things to note while contributing
 * Note that this is an initiative to learn DCVS SCM and a good start for python newbies.
 * We value the correctness of the code.
@@ -36,7 +36,12 @@ through the documentation.
 * Please try to upload only codes. The images that are generated should not be kept with the library. Please remove them during 'commit'.
 * Please be responsible for your work. 
 
+## Getting started with git. 
+ 
+You can access a great article [here](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1), on how to get started with git. The [community](https://help.github.com/) is awesome and you wouldn't be feeling deserted when you run into any trouble.
 <hr>
 
 ## End Note.
-This is just an effort and any suggestions for improvement is welcome. Later we will be improving the repository management with 'branch' and 'blame'. To keep things simple, we will adhere to the simple git repo management in the beginning. Please note that whatever your knowledge base is you can join and contribute as much as you want. Guidelines will be updated in accordance to the users. 
+This is just an effort to do something good and all suggestions for improvement are heartily welcomed. 
+
+As things move further, we will be improving the repository management with features like 'branch' and 'blame'. To keep things simple, we will adhere to the simple git repo management in the beginning. Please note that whatever your knowledge base maybe, you could join us there is still a lot you could do. Guidelines will be updated in accordance to the users. 
