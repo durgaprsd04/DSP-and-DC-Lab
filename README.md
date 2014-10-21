@@ -1,5 +1,9 @@
-DSP-and-DC-Lab
+Digital Signal Processing using SciPy.
 ==============
+
+A repository for a collection of  Digital Signal Processing experiments written in SciPy. Beginning with the experiments conducted in DC and DSP labs in NITC.
+===============
+
 
 A python based alternative for MATLAB, SciPy is used here. Entire code sets are reimplemented using python. A good start for python beginners. Please contribute if you know python. Also check for errors.
 ## Why is such an initiative important
