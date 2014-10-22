@@ -9,3 +9,4 @@ t1 = np.arange(0,tmax,dt)
 x = np.sin(2 * pi * fs * t)
 data = np.random.randint(0,2,1024)
 y = []
+x=test
